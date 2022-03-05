@@ -24,7 +24,7 @@ var sprites = [
     new Sprite('Frostbite', 12, 'Frostbite', 'img/sprites/Frostbite.png', 'Keyword'),
     new Sprite('Can\'t Block', 13, 'Reckless', 'img/sprites/Reckless.png', 'Keyword'),
     new Sprite('Fury', 14, 'Fury', 'img/sprites/Fury.png', 'Keyword'),
-    new Sprite('Lurk', 15, 'Lurk', 'img/sprites/Lurk.png', 'Keyword'),
+    new Sprite('Lurker', 15, 'Lurker', 'img/sprites/Lurker.png', 'Keyword'),
     new Sprite('Impact', 16, 'Impact', 'img/sprites/Impact.png', 'Keyword'),
     new Sprite('Impact: Empty', 17, 'ImpactB', 'img/sprites/ImpactB.png', 'Keyword'),
     new Sprite('Level Up: Empty', 18, 'ChampLevelUpIcon1', 'img/sprites/ChampLevelUpIcon1.png', 'Levelup'),
