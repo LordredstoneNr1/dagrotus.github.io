@@ -63,7 +63,7 @@ var sprites = [
     new Sprite('Coin', 51, 'currency_bp', 'img/sprites/currency_bp.png', 'Currency'),
     new Sprite('Shards', 52, 'currency_shards', 'img/sprites/currency_shards.png', 'Currency'),
     new Sprite('Common Wildcard', 53, 'common', 'img/sprites/common.png', 'Wildcard'),
-    new Sprite('Runeterra', 54, 'Neutral', 'img/sprites/Neutral.png', 'Region'),
+    new Sprite('Neutral', 54, 'Neutral', 'img/sprites/Neutral.png', 'Region'),
     new Sprite('Bilgewater', 55, 'Bilgewater', 'img/sprites/Bilgewater.png', 'Region'),
     new Sprite('Demacia', 56, 'Demacia', 'img/sprites/Demacia.png', 'Region'),
     new Sprite('Freljord', 57, 'Freljord', 'img/sprites/Freljord.png', 'Region'),
@@ -73,5 +73,9 @@ var sprites = [
     new Sprite('Shadow Isles', 61, 'ShadowIsles', 'img/sprites/ShadowIsles.png', 'Region'),
     
     // Different spritesheets, which can not be adressed by ID.
-    // None right now.
+    new Sprite('Jhin', '', 'Jhin', 'img/sprites/Jhin.png', 'Region'),
+    new Sprite('Bard', '', 'Bard', 'img/sprites/Bard.png', 'Region'),
+    new Sprite('Runeterra', '', 'Runeterra', 'img/sprites/Runeterra.png', 'Region'),
+    new Sprite('Invalid Deck', '', 'InvalidDeck', 'img/sprites/InvalidDeck.png', 'Info'),
+    
 ];
