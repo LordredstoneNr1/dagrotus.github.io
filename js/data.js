@@ -78,4 +78,8 @@ var sprites = [
     new Sprite('Runeterra', '', 'Runeterra', 'img/sprites/Runeterra.png', 'Region'),
     new Sprite('Invalid Deck', '', 'InvalidDeck', 'img/sprites/InvalidDeck.png', 'Info'),
     
+    new Sprite('Hallowed', '', 'Hallowed', 'img/sprites/Hallowed.png', 'Keyword'),
+    new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
+    new Sprite('Evelynn', '', 'Evelynn', 'img/sprites/Evelynn.png', 'Region'),
+    
 ];
