@@ -56,10 +56,10 @@ var sprites = [
     new Sprite('Elusive', 44, 'Elusive', 'img/sprites/Elusive.png', 'Keyword'),
     new Sprite('Ephemeral', 45, 'Ephemeral', 'img/sprites/Ephemeral.png', 'Keyword'),
     new Sprite('Targon', 46, 'Targon', 'img/sprites/Targon.png', 'Region'),
-    new Sprite('Fast', 47, 'Fast', 'img/sprites/Fast.png', 'SpellSpeed'),
-    new Sprite('Slow', 48, 'Slow', 'img/sprites/Slow.png', 'SpellSpeed'),
-    new Sprite('Focus', 49, 'Focus', 'img/sprites/Focus.png', 'SpellSpeed'),  
-    new Sprite('Landmark', 50, 'LandmarkVisualOnly', 'img/sprites/LandmarkVisualOnly.png', 'Keyword'),
+    new Sprite('Fast', 47, 'Fast', 'img/sprites/Fast.png', 'Type'),
+    new Sprite('Slow', 48, 'Slow', 'img/sprites/Slow.png', 'Type'),
+    new Sprite('Focus', 49, 'Focus', 'img/sprites/Focus.png', 'Type'),  
+    new Sprite('Landmark', 50, 'LandmarkVisualOnly', 'img/sprites/LandmarkVisualOnly.png', 'Type'),
     new Sprite('Coin', 51, 'currency_bp', 'img/sprites/currency_bp.png', 'Currency'),
     new Sprite('Shards', 52, 'currency_shards', 'img/sprites/currency_shards.png', 'Currency'),
     new Sprite('Common Wildcard', 53, 'common', 'img/sprites/common.png', 'Wildcard'),
@@ -81,5 +81,9 @@ var sprites = [
     new Sprite('Hallowed', '', 'Hallowed', 'img/sprites/Hallowed.png', 'Keyword'),
     new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
     new Sprite('Evelynn', '', 'Evelynn', 'img/sprites/Evelynn.png', 'Region'),
+    
+    new Sprite('Jax', '', 'Jax', 'img/sprites/Jax.png', 'Region'),
+    new Sprite('Kayn', '', 'Kayn', 'img/sprites/Kayn.png', 'Region'),
+    new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Type'),
     
 ];
