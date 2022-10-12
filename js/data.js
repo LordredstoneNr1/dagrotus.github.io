@@ -86,4 +86,6 @@ var sprites = [
     new Sprite('Kayn', '', 'Kayn', 'img/sprites/Kayn.png', 'Region'),
     new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Type'),
     
+    new Sprite('Varus', '', 'Varus', 'img/sprites/Varus.png', 'Region'),
+    
 ];
