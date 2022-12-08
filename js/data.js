@@ -86,6 +86,8 @@ var sprites = [
     new Sprite('Kayn', '', 'Kayn', 'img/sprites/Kayn.png', 'Region'),
     new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Type'),
     
-    new Sprite('Varus', '', 'Varus', 'img/sprites/Varus.png', 'Region'),
+    new Sprite('Aatrox', '', 'Aatrox', 'img/sprites/Aatrox.png', 'Region'),
+    new Sprite('Ryze', '', 'Ryze', 'img/sprites/Ryze.png', 'Region'),
+    new Sprite('Poro King', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Region'),
     
 ];
