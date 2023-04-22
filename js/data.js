@@ -89,5 +89,6 @@ var sprites = [
     new Sprite('Aatrox', '', 'Aatrox', 'img/sprites/Aatrox.png', 'Region'),
     new Sprite('Ryze', '', 'Ryze', 'img/sprites/Ryze.png', 'Region'),
     new Sprite('Poro King', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Region'),
+    new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.png', 'Keyword'),
     
 ];
