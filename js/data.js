@@ -73,22 +73,34 @@ var sprites = [
     new Sprite('Shadow Isles', 61, 'ShadowIsles', 'img/sprites/ShadowIsles.png', 'Region'),
     
     // Different spritesheets, which can not be adressed by ID.
+    // 6A
     new Sprite('Jhin', '', 'Jhin', 'img/sprites/Jhin.png', 'Region'),
     new Sprite('Bard', '', 'Bard', 'img/sprites/Bard.png', 'Region'),
     new Sprite('Runeterra', '', 'Runeterra', 'img/sprites/Runeterra.png', 'Region'),
     new Sprite('Invalid Deck', '', 'InvalidDeck', 'img/sprites/InvalidDeck.png', 'Info'),
     
+    // 6B
     new Sprite('Hallowed', '', 'Hallowed', 'img/sprites/Hallowed.png', 'Keyword'),
     new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
     new Sprite('Evelynn', '', 'Evelynn', 'img/sprites/Evelynn.png', 'Region'),
     
+    // 6C
     new Sprite('Jax', '', 'Jax', 'img/sprites/Jax.png', 'Region'),
     new Sprite('Kayn', '', 'Kayn', 'img/sprites/Kayn.png', 'Region'),
     new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Type'),
     
+    // 6D
+    new Sprite('Varus', '', 'Varus', 'img/sprites/Varus.png', 'Region'),
+    
+    // 6E
     new Sprite('Aatrox', '', 'Aatrox', 'img/sprites/Aatrox.png', 'Region'),
     new Sprite('Ryze', '', 'Ryze', 'img/sprites/Ryze.png', 'Region'),
-    new Sprite('Poro King', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Region'),
+    
+    // 7A
     new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.png', 'Keyword'),
+    
+    // 7B
+    new Sprite('Poro King', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Region'),
+    new Sprite('Neeko', '', 'Neeko', 'img/sprites/Neeko.png', 'Region'),
     
 ];
