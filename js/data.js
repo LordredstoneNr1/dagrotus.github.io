@@ -104,4 +104,7 @@ var sprites = [
     new Sprite('Poro King', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Region'),
     new Sprite('Neeko', '', 'Neeko', 'img/sprites/Neeko.png', 'Region'),
     
+    // 8A
+    new Sprite('Elemental Skill', '', 'ElementalSkill', 'img/sprites/ElementalSkill.png', 'Card Effect')
+    
 ];
