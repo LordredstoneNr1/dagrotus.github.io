@@ -105,6 +105,11 @@ var sprites = [
     new Sprite('Neeko', '', 'Neeko', 'img/sprites/Neeko.png', 'Region'),
     
     // 8A
-    new Sprite('Elemental Skill', '', 'ElementalSkill', 'img/sprites/ElementalSkill.png', 'Card Effect')
+    new Sprite('Elemental Skill', '', 'ElementalSkill', 'img/sprites/ElementalSkill.png', 'Card Effect'),
+    
+    // 8B
+    new Sprite('Elder Dragon', '', 'ElderDragon', 'img/sprites/ElderDragon.png', 'Region'),
+    new Sprite('Curse', '', 'Curse', 'img/sprites/Curse.png', 'Keyword'),
+    new Sprite('Deathless', '', 'Deathless', 'img/sprites/Deathless.png', 'Keyword'),
     
 ];
