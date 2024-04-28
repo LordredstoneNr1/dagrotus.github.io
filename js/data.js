@@ -30,7 +30,7 @@ var sprites = [
     new Sprite('Fury', 18, 'Fury', 'img/sprites/Fury.png', 'Keyword'),
     new Sprite('Lurker', 19, 'Lurker', 'img/sprites/Lurker.png', 'Keyword'),
     new Sprite('Impact', 20, 'Impact', 'img/sprites/Impact.png', 'Keyword'),
-    new Sprite('Impact: Empty', 21, 'ImpactB', 'img/sprites/ImpactB.png', 'Keyword'),
+    new Sprite('Impact: Stack', 21, 'ImpactB', 'img/sprites/ImpactB.png', 'Keyword'),
     new Sprite('Level Up: Empty', 22, 'ChampLevelUpIcon1', 'img/sprites/ChampLevelUpIcon1.png', 'Levelup'),
     new Sprite('Champion Wildcard', 23, 'champion', 'img/sprites/champion.png', 'Wildcard'),
     new Sprite('Fleeting', 24, 'Fleeting', 'img/sprites/Fleeting.png', 'Keyword'),
@@ -111,5 +111,11 @@ var sprites = [
     new Sprite('Elder Dragon', '', 'ElderDragon', 'img/sprites/ElderDragon.png', 'Region'),
     new Sprite('Curse', '', 'Curse', 'img/sprites/Curse.png', 'Keyword'),
     new Sprite('Deathless', '', 'Deathless', 'img/sprites/Deathless.png', 'Keyword'),
+    
+    // 9
+    new Sprite('Gloom', '', 'Gloom', 'img/sprites/Gloom.png', 'Keyword'),
+    new Sprite('Gloom: Stack', '', 'GloomB', 'img/sprites/GloomB.png', 'Keyword'),
+    new Sprite('Spirit', '', 'Spirit', 'img/sprites/Spirit.png', 'Keyword'),
+    new Sprite('Spirit: Stack', '', 'SpiritB', 'img/sprites/SpiritB.png', 'Keyword'),
     
 ];
